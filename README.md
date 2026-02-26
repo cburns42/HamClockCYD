@@ -10,4 +10,4 @@ The software is Arduino, using lvgl graphics library to implement the UI. The UI
   2.	Weather
   3.	Solar Conditions
   4.	Tools – This tab controls various options and settings 
-![Screenshot](images/HamClockCYD.jpg)
+![Screenshot](images/HamClock.jpg)
